@@ -1,8 +1,10 @@
-# Biometric Sytem for Iris Recognition
+# Iris Recognition for User Authentication
 
-Abstract: This project intends to identify humans by they iris using techniques of image processing. Given a image of eyes, return a validation of that eyes.
+#### Abstract
 
-#### Table of Contents
+This project intends to build a model for Iris Recognition for User Authentication for application in an embedded system for Automatic Ticket generation using RaspberryPi. The primary sub-problem for this project is as follows: given a image of eyes, return a validation of that eyes corresponsding to a registered user. The prjoect is derived from John Daugman's approach for Iris Recognition.
+
+#### Contents
 
 - [Dataset](#dataset)
 
